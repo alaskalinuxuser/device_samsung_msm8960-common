@@ -1,2 +1,1 @@
-# device_samsung_msm8960-common
-https://thealaskalinuxuser.wordpress.com
+# pac_device_samsung_msm8960-common
